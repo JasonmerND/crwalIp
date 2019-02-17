@@ -1,0 +1,5 @@
+requests == 2.21.0
+Twisted == 18.9.0
+Scrapy == 1.6.0
+mysqlclient == 1.4.1
+fake_useragent == 0.1.11
